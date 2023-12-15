@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Dipanshu verma
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...verma1dipanshu2@gmail.com
+  - 📫 How to reach me ...verma1dipanshu2@gmail.com
 
 <!---
 Dipanshu1117/Dipanshu1117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
